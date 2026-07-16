@@ -7,7 +7,7 @@ I build ML systems and web apps end-to-end — from raw data to a deployed, usab
 - 🔭 Currently building: end-to-end ML pipelines and full-stack web platforms
 - 🌱 Learning: model deployment & MLOps fundamentals
 - 💬 Ask me about: computer vision, ML model evaluation, or React/Node full-stack builds
-- 📫 Reach me: hetpl6305@gmail.com | [LinkedIn](https://linkedin.com/in/het-patel-9640b9310)
+- 📫 Reach me: hetptl0305@gmail.com | [LinkedIn](https://linkedin.com/in/het-patel-9640b9310)
 
 ---
 
